@@ -1,0 +1,12 @@
+ 
+ 
+      java.util.Collection 是一个集合接口。
+   它提供了对集合对象进行基本操作的通用接口方法。
+   Collection接口在Java 类库中有很多具体的实现。
+   Collection接口的意义是为各种具体的集合提供了最大化的统一操作方式。
+      集合框架包括：List、Map和Set
+   
+   Collections是一个静态类，提供对集合框架的各种操作，但是不能被实例化；
+      
+      eg： Collections.sort();
+         
